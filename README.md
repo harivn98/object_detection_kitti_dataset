@@ -1,4 +1,3 @@
-# Advanced Multi-Modal Object Detection System for Autonomous Driving
 
 # YOLOv8 Object Detection System for Autonomous Driving
 ## Technical Architecture and Processing Pipeline
