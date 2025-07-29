@@ -1,7 +1,9 @@
 # Advanced Multi-Modal Object Detection System for Autonomous Driving
 
 End-to-End SLAM+ADAS Pipeline with YOLOv8 Implementation
+
 Project Overview
+
 Developed a comprehensive computer vision system for autonomous driving applications, implementing a complete data pipeline for processing multi-modal sensor data (camera, LiDAR, IMU, GPS) and training state-of-the-art object detection models on industry-standard datasets including KITTI, PKLot, and Waymo.
 
 🏗️ Technical Architecture & Design Decisions
